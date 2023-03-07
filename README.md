@@ -1,9 +1,10 @@
 # R_Repo
 
 Helpful commands:
-installed.packages() - checked installed packages /n
-install.packages("") - to install package
-
+<ul>
+  <li>installed.packages() - checked installed packages </li>
+ <li> install.packages("") - to install package</li>
+</ul>
 
 Resources:
 <ul>
