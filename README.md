@@ -1,5 +1,9 @@
 # R_Repo
 
+Helpful commands:
+installed. packages() - checked installed packages/install
+
+
 Resources:
 <ul>
 <li>https://www.reddit.com/r/RStudio/comments/if536c/newbie_alert_whats_a_personal_library_how_to/</li>
