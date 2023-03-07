@@ -1,7 +1,8 @@
 # R_Repo
 
 Helpful commands:
-installed. packages() - checked installed packages/install
+installed.packages() - checked installed packages
+install.packages("") - to install package
 
 
 Resources:
