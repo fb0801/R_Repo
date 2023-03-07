@@ -6,6 +6,7 @@ installed. packages() - checked installed packages/install
 
 Resources:
 <ul>
+<li>https://www.youtube.com/watch?v=MS14Z09UZZg</li>
 <li>https://www.reddit.com/r/RStudio/comments/if536c/newbie_alert_whats_a_personal_library_how_to/</li>
 <li>https://stackoverflow.com/questions/39879424/automatically-create-personal-library-in-r</li>
 <li>https://www.edureka.co/community/30983/message-saying-private-library-instead-trying-install-package</li>
