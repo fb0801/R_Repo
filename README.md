@@ -16,5 +16,5 @@ Resources:
 <li>https://uedufy.com/how-to-install-r-packages-from-command-line/</li>
 <li>https://stats.oarc.ucla.edu/r/faq/how-can-i-manage-r-packages/#:~:text=To%20see%20what%20packages%20are,package%20that%20has%20been%20installed.</li>
 <li>https://www.dataquest.io/blog/install-package-r/</li>
-
+  <li>https://hohenfeld.is/posts/check-if-a-package-is-installed-in-r/</li>
 </ul>
